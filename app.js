@@ -2,7 +2,7 @@
 
 const weatherApi = {
     // keyt or token / username / password /  ==> genration
-    key: "bab281d79e5f1e9755a68d754cc313e7",            //demo key ==> login ID / login authentication
+    key: //"Enter your Api key here..",//            //demo key ==> login ID / login authentication
     baseUrl: "https://api.openweathermap.org/data/2.5/weather", 
 }
 
